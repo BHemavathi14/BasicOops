@@ -1,0 +1,15 @@
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\bin\Debug\net7.0\ValueAndReferenceType.exe
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\bin\Debug\net7.0\ValueAndReferenceType.deps.json
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\bin\Debug\net7.0\ValueAndReferenceType.runtimeconfig.json
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\bin\Debug\net7.0\ValueAndReferenceType.dll
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\bin\Debug\net7.0\ValueAndReferenceType.pdb
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.csproj.AssemblyReference.cache
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.AssemblyInfoInputs.cache
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.AssemblyInfo.cs
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.dll
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\obj\Debug\net7.0\refint\ValueAndReferenceType.dll
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.pdb
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\obj\Debug\net7.0\ValueAndReferenceType.genruntimeconfig.cache
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\ValueAndReferenceType\obj\Debug\net7.0\ref\ValueAndReferenceType.dll

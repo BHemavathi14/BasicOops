@@ -1,0 +1,5 @@
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\AccessSpecifier\obj\Debug\net7.0\AccessSpecifier.csproj.AssemblyReference.cache
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\AccessSpecifier\obj\Debug\net7.0\AccessSpecifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\AccessSpecifier\obj\Debug\net7.0\AccessSpecifier.AssemblyInfoInputs.cache
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\AccessSpecifier\obj\Debug\net7.0\AccessSpecifier.AssemblyInfo.cs
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\AccessSpecifier\obj\Debug\net7.0\AccessSpecifier.csproj.CoreCompileInputs.cache

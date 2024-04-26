@@ -1,0 +1,15 @@
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\bin\Debug\net7.0\CollegeStudentAdmission.exe
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\bin\Debug\net7.0\CollegeStudentAdmission.deps.json
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\bin\Debug\net7.0\CollegeStudentAdmission.runtimeconfig.json
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\bin\Debug\net7.0\CollegeStudentAdmission.dll
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\bin\Debug\net7.0\CollegeStudentAdmission.pdb
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\obj\Debug\net7.0\CollegeStudentAdmission.csproj.AssemblyReference.cache
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\obj\Debug\net7.0\CollegeStudentAdmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\obj\Debug\net7.0\CollegeStudentAdmission.AssemblyInfoInputs.cache
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\obj\Debug\net7.0\CollegeStudentAdmission.AssemblyInfo.cs
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\obj\Debug\net7.0\CollegeStudentAdmission.csproj.CoreCompileInputs.cache
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\obj\Debug\net7.0\CollegeStudentAdmission.dll
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\obj\Debug\net7.0\refint\CollegeStudentAdmission.dll
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\obj\Debug\net7.0\CollegeStudentAdmission.pdb
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\obj\Debug\net7.0\CollegeStudentAdmission.genruntimeconfig.cache
+C:\Users\HemavathiBalaraman\OneDrive - Syncfusion\Desktop\CollegeStudentAdmission\obj\Debug\net7.0\ref\CollegeStudentAdmission.dll
